@@ -11,10 +11,6 @@ import Specifications from "./components/Specifications";
 
 const App = () => {
 
-
-  useEffect(() => {
-  }, []);
-
   return <div className="App">
     <Header />
     <DoneBy />
