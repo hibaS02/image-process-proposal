@@ -12,3 +12,147 @@ html {
 body {
   height: 100%;
 }
+
+.App {
+  width: 90%;
+  height: 100%;
+  margin:10px auto;
+}
+
+.header {
+  background-color: lightblue;
+  height: 8px;
+}
+
+.done-by {
+  padding: 10px 5px;
+}
+
+.done-by-title {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.done-by-list {
+  padding: 10px 5px;
+}
+
+.done-by-list p {
+  font-family: Roboto;
+  font-size: 20px;
+  margin: 10px 0px;
+}
+
+.hiba {
+  color: lightcoral;
+}
+
+.ds {
+  color: whitesmoke;
+}
+
+.jad {
+  color: aquamarine;
+}
+
+
+.intro {
+  padding: 10px 5px;
+}
+
+.intro-header {
+  font-size: 35px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.intro-date {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto;
+  padding: 10px 5px;
+  color: whitesmoke;
+}
+
+.overview {
+  padding: 10px 5px;
+}
+
+.overview-title {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.overview-desc {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Roboto;
+  padding: 10px 5px;
+  color: whitesmoke;
+}
+
+.goals {
+  padding: 10px 5px;
+}
+
+.goals-title {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.goals-list {
+  list-style-type: square;
+  color: lightcyan;
+  font-size: 20px;
+  font-family: Roboto;
+  padding: 10px 35px;
+}
+
+.goals-list li {
+  margin: 10px 0px;
+}
+
+.specifications {
+  padding: 10px 5px;
+}
+
+.specifications-title {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.specifications-desc {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Roboto;
+  padding: 10px 5px;
+  color: whitesmoke;
+}
+
+.milestones {
+  padding: 10px 5px;
+}
+
+.milestones-title {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: lightblue;
+}
+
+.milestones-desc {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Roboto;
+  padding: 10px 5px;
+  color: whitesmoke;
+}
