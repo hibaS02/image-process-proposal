@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/image-process-proposal/static/css/main.b5d5a46f.chunk.css",
+    "main.js": "/image-process-proposal/static/js/main.938180f0.chunk.js",
+    "main.js.map": "/image-process-proposal/static/js/main.938180f0.chunk.js.map",
+    "runtime-main.js": "/image-process-proposal/static/js/runtime-main.cb65fa6f.js",
+    "runtime-main.js.map": "/image-process-proposal/static/js/runtime-main.cb65fa6f.js.map",
+    "static/js/2.6b343ae6.chunk.js": "/image-process-proposal/static/js/2.6b343ae6.chunk.js",
+    "static/js/2.6b343ae6.chunk.js.map": "/image-process-proposal/static/js/2.6b343ae6.chunk.js.map",
+    "index.html": "/image-process-proposal/index.html",
+    "precache-manifest.d46fd98912112a7508fd8eb0220cdad9.js": "/image-process-proposal/precache-manifest.d46fd98912112a7508fd8eb0220cdad9.js",
+    "service-worker.js": "/image-process-proposal/service-worker.js",
+    "static/css/main.b5d5a46f.chunk.css.map": "/image-process-proposal/static/css/main.b5d5a46f.chunk.css.map",
+    "static/js/2.6b343ae6.chunk.js.LICENSE.txt": "/image-process-proposal/static/js/2.6b343ae6.chunk.js.LICENSE.txt",
+    "static/media/bau-logo.jpg": "/image-process-proposal/static/media/bau-logo.3c1c8aaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb65fa6f.js",
+    "static/js/2.6b343ae6.chunk.js",
+    "static/css/main.b5d5a46f.chunk.css",
+    "static/js/main.938180f0.chunk.js"
+  ]
+}
